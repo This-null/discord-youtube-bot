@@ -1,0 +1,14 @@
+{
+  "name": "youtube-ping",
+  "version": "0.0.2",
+  "description": "Video yüklediğin zaman belirli kanala mesaj atar.",
+  "main": "null.js",
+  "scripts": {
+    "test": "node null.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "quick.db": "^7.0.0-b22",
+    "rss-parser": "^3.7.5"
+  }
+}
